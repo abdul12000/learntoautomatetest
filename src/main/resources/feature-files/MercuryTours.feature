@@ -17,9 +17,9 @@ Feature: As a User I want to be able to signup to the Mercury tours website
     Then "<firstname>", "<lastname>" and "<username>" are displayed
     Examples:
       | firstname | lastname | email               | username  | password   |
-#      | ola       | gbenro   | olaGnenro@yahoo.com | OlaGbenro | mypassword |
-      | olaA      | gbenroA  | olaGnenroA@yahoo.com | OlaGbenroA | mypasswordA |
-#      | olaB      | gbenroB  | olaGnenroB@yahoo.com | OlaGbenroB | mypasswordB |
+      | ola       | gbenro   | olaGnenro@yahoo.com | OlaGbenro | mypassword |
+      | olaA      | gbenAroA  | olaAGnenroA@yahoo.com | OlaGbenroA | mypasswordA |
+      | olaSB      | gbenrSoB  | olaGnenroSB@yahoo.com | OlaGbenroBX | mypasswordBC |
 
 
 
